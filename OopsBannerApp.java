@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class OOPSBannerApp {
+public class OopsBannerApp {
 
     public static HashMap<Character, String[]> createCharacterMap() {
 
