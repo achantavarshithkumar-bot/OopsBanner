@@ -1,4 +1,4 @@
-public class OOPSBannerApp {
+public class OopsBannerApp {
 
     // Pattern for letter O
     public static String[] getOPattern() {
